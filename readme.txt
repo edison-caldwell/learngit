@@ -1,4 +1,3 @@
-YAY, YOU READ ME!!! <3
-
-Different readme.txt than update branch. 
-Going to merge with master and delete update branch.
+Ran into problems with merging testing to master.
+Each branch had different files but were "already up to date" when trying to merge testing.
+Used git reset which reset testing readme.
